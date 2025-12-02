@@ -1,0 +1,5 @@
+{
+  "name": "NSE PatternAlpha",
+  "description": "A high-frequency pattern prediction heatmap for NSE stocks, visualizing algorithmic signals, historical accuracy, and AI-driven technical analysis.",
+  "requestFramePermissions": []
+}
